@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GG_Nourish Workout Timer</title>
+    <link rel="stylesheet" href="../static/workout_timer.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <img src="../static/logo.png" alt="GG_Nourish Logo">
+                <h1>GG_Nourish</h1>
+            </div>
+            <div class="close-btn" id="closeBtn">×</div>
+        </div>
+
+        <div class="workout-container">
+            <div class="workout-header">
+                <h2 id="workoutName">10-Minute Gaming Break</h2>
+                <p id="workoutDescription">Time for a quick break to refresh your mind and body!</p>
+            </div>
+
+            <div class="timer-container">
+                <div class="timer" id="timer">10:00</div>
+                <div class="progress-bar">
+                    <div class="progress" id="progress"></div>
+                </div>
+                <div class="timer-controls">
+                    <button id="startBtn" class="btn primary">Start</button>
+                    <button id="pauseBtn" class="btn secondary" disabled>Pause</button>
+                    <button id="skipBtn" class="btn secondary">Skip</button>
+                </div>
+            </div>
+
+            <div class="current-exercise">
+                <h3>Current Exercise</h3>
+                <div class="exercise-card" id="currentExercise">
+                    <div class="exercise-header">
+                        <h4 id="exerciseName">Neck Stretches</h4>
+                        <span id="exerciseDuration">60 seconds</span>
+                    </div>
+                    <p id="exerciseDescription">Gently tilt your head side to side and front to back</p>
+                    <p class="benefit"><span>Benefit:</span> <span id="exerciseBenefit">Relieves neck tension from looking at the screen</span></p>
+                </div>
+            </div>
+
+            <div class="upcoming-exercises">
+                <h3>Up Next</h3>
+                <div class="exercise-list" id="exerciseList">
+                    <!-- Exercise cards will be added here dynamically -->
+                </div>
+            </div>
+        </div>
+
+        <div class="completion-screen" id="completionScreen">
+            <div class="completion-content">
+                <div class="completion-icon">🎉</div>
+                <h2>Great Job!</h2>
+                <p>You've completed your workout break.</p>
+                <p class="stats">You took <span id="completionTime">10</span> minutes to refresh your body and mind.</p>
+                <button id="doneBtn" class="btn primary">Back to Gaming</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../static/workout_timer.js"></script>
+</body>
+</html>

@@ -1,0 +1,463 @@
+{
+  "1257868943201407048": {
+    "address": "650 Jane Stanford Way",
+    "budget": 1000.0,
+    "preferences": [],
+    "payment_info": {},
+    "default_location": "Palo Alto",
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "!help",
+        "timestamp": "2025-03-09T19:28:25.121131"
+      },
+      {
+        "role": "user",
+        "content": "hi",
+        "timestamp": "2025-03-09T19:34:30.814100"
+      },
+      {
+        "role": "user",
+        "content": "i want to eat more vegetables",
+        "timestamp": "2025-03-09T19:34:53.166169"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello there, gamer friend! It's great to hear that you want to include more vegetables in your diet. Let's level up your nutrition game!\n\nHere are some simple tips to help you do that:\n\n1. **Start Slow**: Don't try to force yourself to eat a plate full of vegetables right away. Gradually introduce more vegetables into your meals.\n\n2. **Sneak Them In**: Add vegetables to foods you already like. For example, you can put some spinach in your sandwich, or add mushrooms and bell peppers to your pizza.\n\n3. **Snack Smart**: Instead of reaching for chips or cookies, try snacking on baby carrots, cherry tomatoes, or cucumber slices. You can pair them with hummus or a yummy dip for extra flavor.\n\n4. **Gamer-Friendly Meals**: Make vegetable-packed meals that are easy to eat while gaming, like stuffed bell peppers, zucchini boats, or a hearty vegetable stew.\n\n5. **Hydrate**: Did you know that vegetables have high water content? They can help keep you hydrated during those intense gaming sessions.\n\n6. **Experiment**: Try out different cooking methods like roasting, grilling, or stir-frying to keep things interesting. You might discover a new favorite dish!\n\nRemember, every small step counts, and it's all about finding what works best for you. Now go on, fuel your gaming adventures with the power of vegetables!\n\nIf you have any other questions about health, nutrition, or fitness, feel free to ask. I'm here to help! Let's get healthier, together! \ud83c\udfae\ud83e\udd57",
+        "timestamp": "2025-03-09T19:35:02.327016"
+      },
+      {
+        "role": "user",
+        "content": "!start",
+        "timestamp": "2025-03-09T19:57:25.226196"
+      },
+      {
+        "role": "user",
+        "content": "!healthgoal I want to eat healthier and remember to take breaks",
+        "timestamp": "2025-03-09T19:57:54.579366"
+      },
+      {
+        "role": "user",
+        "content": "!healthgoal I want to eat healthier and remember to take breaksa",
+        "timestamp": "2025-03-09T19:58:07.255590"
+      },
+      {
+        "role": "user",
+        "content": "!start",
+        "timestamp": "2025-03-09T20:07:04.009838"
+      },
+      {
+        "role": "user",
+        "content": "!healthgoal I want to spend less time just staring at my screen",
+        "timestamp": "2025-03-09T20:07:20.640800"
+      },
+      {
+        "role": "user",
+        "content": "!food",
+        "timestamp": "2025-03-09T20:07:46.892142"
+      },
+      {
+        "role": "user",
+        "content": "!food I want something healthy that fits into my fitness plan",
+        "timestamp": "2025-03-09T20:08:00.406850"
+      },
+      {
+        "role": "user",
+        "content": "1",
+        "timestamp": "2025-03-09T20:08:13.570613"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello there, gamer! It's great to hear that you're looking to make healthier choices. Let's tackle your goals one step at a time.\n\nFirstly, to spend less time staring at your screen, you can try the 20-20-20 rule. Every 20 minutes, look at something 20 feet away for 20 seconds. This will help reduce eye strain. Additionally, consider setting a timer to remind yourself to take short breaks every hour. You can use this time to stretch, walk around, or do some light exercises.\n\nNow, let's talk about food! Since you're looking for something healthy that fits into your fitness plan, I suggest trying out some quick and nutritious meals or snacks. Here are a few ideas:\n\n1. **Greek Yogurt Parfait**: Layer Greek yogurt with mixed berries and a sprinkle of granola for a protein-packed snack.\n2. **Chicken and Veggie Wrap**: Whole grain tortilla, grilled chicken, lots of veggies, and a spread of hummus.\n3. **Protein Smoothie**: Blend spinach, a banana, a scoop of protein powder, almond milk, and a tablespoon of peanut butter for a nutritious drink.\n4. **Apple Slices with Peanut Butter**: A simple and tasty snack that provides both carbs and protein.\n\nRemember, staying hydrated is also crucial. Keep a water bottle nearby and aim to drink at least 8 cups of water throughout the day.\n\nIf you have any specific dietary preferences or restrictions, let me know so I can provide more tailored advice. Now, let's get back to your gaming health journey! \ud83d\ude0a",
+        "timestamp": "2025-03-09T20:08:43.699824"
+      },
+      {
+        "role": "user",
+        "content": "what are some restaurants nearby?",
+        "timestamp": "2025-03-09T20:20:11.174046"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there, gamer! I'm here to help you maintain a healthy lifestyle while enjoying your gaming sessions. As a friendly AI assistant, I'm focused on providing tips about nutrition, exercise, and wellness.\n\nWhen it comes to finding restaurants nearby, I'm unable to browse the internet or access your location. However, I can suggest some healthy restaurant options that you might look for.\n\nIf you're craving something specific, try searching for these types of restaurants:\n\n1. **Salad Bars**: Places like Sweetgreen, Chopt, or Tender Greens offer customizable salads with a variety of fresh ingredients.\n2. **Poke Bowls**: Restaurants that serve poke bowls, like The Poke Bar or Pokeworks, provide a mix of proteins, veggies, and grains.\n3. **Grill-Focused Restaurants**: Look for places that serve grilled proteins and veggies, like Chipotle or local grill houses.\n4. **Health-Conscious Cafes**: These are usually local spots that focus on organic, wholesome ingredients.\n\nRemember, it's essential to maintain a balanced diet, even when ordering takeout. Look for meals that include a source of protein, healthy fats, and complex carbohydrates.\n\nNow, let's get back to focusing on your gaming health journey! If you have any other questions related to health, nutrition, or fitness, feel free to ask. Stay healthy, and game on! \ud83d\ude0a",
+        "timestamp": "2025-03-09T20:20:20.131844"
+      },
+      {
+        "role": "user",
+        "content": "Thanks! what can i eat nearby",
+        "timestamp": "2025-03-09T20:59:38.603892"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello there, gamer! It's great to have you here!\n\nTo provide you with the best advice, I'll need a bit more information. Could you please tell me:\n\n1. What type of food are you in the mood for? (e.g., Italian, Mexican, Japanese, etc.)\n2. Are there any specific dietary restrictions or preferences you have? (e.g., vegetarian, vegan, gluten-free, etc.)\n3. What is your current location? (You can share the city or neighborhood, whatever you're comfortable with)\n\nWith these details, I can suggest some nearby places where you can enjoy a delicious and nutritious meal that fits your preferences and supports your general health goal.\n\nIn the meantime, remember to stay hydrated and take short breaks during your gaming sessions to keep your energy levels up!\n\nIf you need help with any other health and nutrition-related topics, just let me know! You can also use the !help command to see other available commands.\n\nLooking forward to hearing back from you! \ud83d\ude0a\ud83c\udf74\ud83c\udfae",
+        "timestamp": "2025-03-09T20:59:38.605899"
+      },
+      {
+        "role": "user",
+        "content": "I'm in palo alto",
+        "timestamp": "2025-03-09T21:02:10.330716"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello there, gamer! Welcome to Palo Alto! It's a great place to be, especially with its perfect blend of technology, innovation, and outdoor spaces. As your health and nutrition assistant, I'm here to help you maintain a healthy lifestyle while you enjoy your gaming sessions.\n\nSince you're in Palo Alto, why not take advantage of the beautiful surroundings? Here are a few tips to start:\n\n1. **Stretch and Move**: For every 30 minutes of gaming, take a 5-minute break to stretch and move around. This will help prevent eye strain and keep your blood circulation going.\n\n2. **Hydrate**: Keep a water bottle nearby and make sure to drink regularly. Staying hydrated is crucial for both your physical health and mental performance.\n\n3. **Healthy Snacks**: Stock up on healthy snacks like fruits, nuts, and veggie sticks. They'll keep your energy up without the crash that comes from sugary snacks.\n\n4. **Outdoor Activities**: Palo Alto has some fantastic parks and trails. Consider going for a walk or a hike in places like the Baylands Nature Preserve or the Pearson-Arastradero Preserve. It's a great way to balance out your gaming time with some fresh air and exercise.\n\n5. **Meal Planning**: Plan your meals for the week to ensure you're getting a balanced diet. There are plenty of healthy meal delivery services in Palo Alto if you're short on time.\n\nIf you need more specific advice or have any questions, feel free to ask! And if you're wondering about what commands you can use, just type !help to see the available options.\n\nNow, let's get started on your journey to a healthier gaming lifestyle! \ud83d\ude0a\ud83c\udfae\ud83c\udf4e",
+        "timestamp": "2025-03-09T21:02:10.332803"
+      },
+      {
+        "role": "user",
+        "content": "no I want some food",
+        "timestamp": "2025-03-09T21:02:28.544976"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there, gamer! I'm glad you're thinking about food \u2013 it's super important to keep your energy up for those intense gaming sessions! Since you're focusing on general health, I've got a couple of suggestions that are both healthy and easy to prep between matches.\n\n1. **Quick and Easy:**\n   - **Apple slices with peanut butter:** This is a great combo of natural sugars and protein to keep your energy levels stable.\n   - **Greek yogurt with granola:** A tasty mix of protein and fiber that'll fill you up without weighing you down.\n   - **Carrot and cucumber sticks with hummus:** Crunchy, refreshing, and perfect for munching mid-game.\n\n2. **Meals on the go:**\n   - **Whole grain wraps:** Stuff them with your favorite lean protein (like turkey or chicken) and loads of veggies.\n   - **Protein-packed salad:** Toss together greens, cherry tomatoes, and a hard-boiled egg or grilled chicken for a quick, nutritious meal.\n\nDon't forget to stay hydrated too! Keep a water bottle nearby and sip regularly. If you need a reminder on commands, just type !help.\n\nNow, fuel up and get back in the game! \ud83c\udf4e\ud83c\udf57\ud83c\udfae",
+        "timestamp": "2025-03-09T21:02:28.547990"
+      },
+      {
+        "role": "user",
+        "content": "what can i order from nearby?",
+        "timestamp": "2025-03-09T21:02:55.985401"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there, gamer! It's great that you're thinking about what to order from nearby. To make sure you're staying on track with your general health goals, consider looking for places that offer balanced meals. Some great options could be:\n\n1. **Grilled chicken or fish** with a side of vegetables and brown rice.\n2. **Salads** with a protein source like grilled chicken, tofu, or beans.\n3. **Whole grain wraps** or sandwiches with lean proteins and lots of veggies.\n4. **Sushi** rolls with brown rice, avocado, and lean proteins.\n5. **Poke bowls** with a base of greens or brown rice, loaded with vegetables and lean proteins.\n\nTry to avoid too many fried foods, sugary drinks, or overly processed items. Remember, staying hydrated is key, so don't forget to order water with your meal!\n\nIf you're unsure about what's available, you can always check a food delivery app or website for local options. And if you need a reminder about available commands, just type !help.\n\nHappy gaming and healthy eating! \ud83c\udfae\ud83c\udf4e",
+        "timestamp": "2025-03-09T21:02:55.986493"
+      },
+      {
+        "role": "user",
+        "content": "im so hungry where should i eat",
+        "timestamp": "2025-03-09T21:23:37.100849"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there, gamer! I'm GG_Nourish, your health and nutrition assistant. I'm here to help you make delicious and healthy choices on your weight loss journey, so you can fuel your gaming sessions and feel great!\n\nWhen you're feeling hungry, it's important to make satisfying choices that will keep you energized. If you're looking to eat out, consider places that offer a variety of healthy options. Here are a few suggestions:\n\n1. **Mediterranean or Greek restaurants**: They usually have delicious grilled meats, hummus, and salads on the menu.\n\n2. **Japanese restaurants**: Sushi rolls with brown rice, miso soup, and grilled teriyaki options can be great choices.\n\n3. **Mexican restaurants**: Opt for grilled meat with veggies, and go easy on the cheese and sour cream.\n\n4. **Salad bars or build-your-own salad places**: Pile on the veggies, choose a lean protein, and go easy on the dressing.\n\nIf you're craving something specific, let me know! I can help you find healthier alternatives that are just as yummy. Don't forget, you can use the !help command to see available commands.\n\nStay nourished, and game on! \ud83c\udfae\ud83c\udf4e",
+        "timestamp": "2025-03-09T21:23:37.103526"
+      },
+      {
+        "role": "user",
+        "content": "Hey Catherine what's up",
+        "timestamp": "2025-03-09T21:25:54.735790"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! It's GG_Nourish, your health and nutrition assistant for gamers. I'm here to help you maintain a healthy lifestyle while enjoying your gaming sessions! I see that your health goal is to lose weight while still eating delicious food. I'm excited to help you with that! Let's level up your health together. How has your day been so far?",
+        "timestamp": "2025-03-09T21:25:54.744694"
+      },
+      {
+        "role": "user",
+        "content": "I am scared i'm going to gain 10000 pounds",
+        "timestamp": "2025-03-09T21:26:26.544572"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there, gamer friend! No need to worry about gaining any ridiculous amounts of weight. I'm GG_Nourish, your health and nutrition assistant, and I'm here to help you maintain a healthy lifestyle while you enjoy your gaming sessions.\n\nFirst things first, let's remember that everyone is unique, and our bodies change at different paces. It's important to focus on creating a sustainable and enjoyable plan that works for you.\n\nSince your goal is to lose weight while still eating yummy food, we'll make sure to find a good balance between healthier options and the treats you love. We can explore things like:\n\n* Portion control, so you can still enjoy your favorite meals without overdoing it.\n* Incorporating more nutrient-dense foods into your diet, like fruits, veggies, lean proteins, and whole grains.\n* Staying hydrated by drinking plenty of water throughout the day.\n* Adding some physical activity to your routine, even if it's just a short walk or some light exercises between gaming sessions.",
+        "timestamp": "2025-03-09T21:26:26.550686"
+      },
+      {
+        "role": "user",
+        "content": "parlez vous francais",
+        "timestamp": "2025-03-09T21:30:08.750724"
+      },
+      {
+        "role": "assistant",
+        "content": "Oui, je parle fran\u00e7ais! But I can provide health and nutrition advice in English to help you meet your goal of losing weight while still enjoying delicious food. Let's start! Have you set any specific goals for your weight loss journey yet? If you need help with anything specific, like meal plans or snack ideas for long gaming sessions, just let me know!\n\nIf you're ever unsure about what to do, remember you can use !help to see available commands. Now, let's get started on your health journey! \ud83c\udfae\ud83c\udf4e",
+        "timestamp": "2025-03-09T21:30:08.750724"
+      },
+      {
+        "role": "user",
+        "content": "non je veux francais",
+        "timestamp": "2025-03-09T21:30:51.719140"
+      },
+      {
+        "role": "assistant",
+        "content": "Bien s\u00fbr, je peux t'aider en fran\u00e7ais ! Ton objectif est de perdre du poids tout en mangeant de la nourriture d\u00e9licieuse, c'est bien \u00e7a ? Pour commencer, il est important de trouver un \u00e9quilibre entre les aliments que tu aimes et des choix nutritifs qui peuvent t'aider \u00e0 atteindre ton objectif de perte de poids.\n\nVoici quelques conseils pour t'aider \u00e0 d\u00e9marrer :\n\n1. **Portions contr\u00f4l\u00e9es** : Tu peux toujours manger les aliments que tu aimes, mais essaie de contr\u00f4ler les portions. Manger moins de ce que tu aimes est mieux que de te priver compl\u00e8tement.\n\n2. **Cuisine maison** : Pr\u00e9parer tes repas \u00e0 la maison te permet de contr\u00f4ler les ingr\u00e9dients et les m\u00e9thodes de cuisson. Tu peux trouver des recettes saines et d\u00e9licieuses en ligne qui correspondent \u00e0 tes go\u00fbts.\n\n3. **Substituts sains** : Remplace certains ingr\u00e9dients par des alternatives plus saines. Par exemple, utilise de l'huile d'olive au lieu du beurre, ou du yaourt grec au lieu de la cr\u00e8me sure.\n\n4. **Collations intelligentes** : Choisis des collations nutritives comme des fruits, des noix, ou des l\u00e9gumes avec de l'houmous. Cela t'aidera \u00e0 rester rassasi\u00e9 entre les repas.\n\n5. **Hydratation** : Bois beaucoup d'eau tout au long de la journ\u00e9e. Parfois, notre corps confond la soif avec la faim, alors rester hydrat\u00e9 peut aider \u00e0 contr\u00f4ler les envies de grignoter.\n\n6. **Activit\u00e9 physique** : Essaie d'int\u00e9grer de l'activit\u00e9 physique dans ta routine quotidienne. M\u00eame de courtes pauses pour s'\u00e9tirer ou marcher peuvent faire une grande diff\u00e9rence.\n\nN'oublie pas, il est important de prendre plaisir \u00e0 manger tout en faisant des choix sains. Si tu as des questions sp\u00e9cifiques ou si tu veux des id\u00e9es de recettes, n'h\u00e9site pas \u00e0 demander !\n\nPour voir les commandes disponibles, utilise !help.",
+        "timestamp": "2025-03-09T21:30:51.722792"
+      },
+      {
+        "role": "user",
+        "content": "hello?",
+        "timestamp": "2025-03-09T21:30:53.425536"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi there! GG_Nourish here, your health and nutrition assistant for gamers. I'm excited to help you on your journey to lose weight while enjoying delicious food! Let's level up your health together. If you need any help, just say the word!",
+        "timestamp": "2025-03-09T21:30:53.433927"
+      },
+      {
+        "role": "user",
+        "content": "merci! je parle en anglais maitenant sil vousplait",
+        "timestamp": "2025-03-09T21:31:55.017158"
+      },
+      {
+        "role": "assistant",
+        "content": "No problem, I can understand and respond in both French and English! Let's focus on your goal to lose weight while enjoying delicious food. I'm here to help you maintain a healthy lifestyle while enjoying your gaming sessions.\n\nTo start, it's important to remember that weight loss is about creating a caloric deficit by consuming fewer calories than your body burns. But that doesn't mean you can't enjoy your food! Let's focus on a few key areas:\n\n1. **Hydration**: Staying hydrated is crucial for overall health and can also help control hunger. Make sure to drink plenty of water throughout the day, especially during long gaming sessions.\n\n2. **Balanced Meals**: Aim for a balance of proteins, healthy fats, and complex carbohydrates in your meals. This will help keep you feeling full and satisfied.\n\n3. **Snack Smart**: Choose healthier snack options like fruits, vegetables, nuts, and yogurt. These can be just as delicious as less healthy alternatives and will help you feel more energized during your gaming sessions.\n\n4. **Portion Control**: Pay attention to portion sizes to avoid overeating. Even healthy foods can contribute to weight gain if you eat too much of them.\n\n5. **Meal Timing**: Try to eat at regular intervals to keep your energy levels stable. This can also help prevent overeating.\n\nLet's start with a simple question: What are some of your favorite foods and snacks? We can build a plan around that to make sure you're enjoying what you eat while working towards your weight loss goal. If you want to know available commands, just type !help.\n\nLooking forward to supporting you on this journey! \ud83d\ude0a\ud83c\udf4e\ud83c\udfae",
+        "timestamp": "2025-03-09T21:31:55.025655"
+      }
+    ],
+    "welcomed": true,
+    "health_goal": {
+      "primary": "i want to eat more vegetables",
+      "set_at": "2025-03-12T11:59:45.112488"
+    },
+    "food_preference": {
+      "preference": "either",
+      "timestamp": "2025-03-09T20:08:04.626178"
+    },
+    "activity_data": {
+      "last_activity": "2025-03-12T12:01:36.398051",
+      "daily_activity": {
+        "2025-03-09": 2153,
+        "2025-03-10": 36,
+        "2025-03-12": 529
+      },
+      "session_start": "2025-03-09T20:58:32.284492",
+      "warning_sent": true,
+      "last_update_time": "2025-03-12T13:01:23.120293"
+    },
+    "workout_count": 11,
+    "workout_history": [
+      {
+        "timestamp": "2025-03-09T21:24:12.946476",
+        "type": "prompt"
+      }
+    ],
+    "last_workout_message_id": 1349456971304013884,
+    "last_workout_time": "2025-03-12T12:00:14.687588",
+    "started": true,
+    "start_date": "2025-03-12T11:59:38.016501",
+    "favorites": {
+      "restaurants": [
+        "green goddess"
+      ],
+      "recipes": []
+    },
+    "dietary_preferences": {
+      "preferences vegetarian": true
+    },
+    "conversation_history": [
+      {
+        "timestamp": "2025-03-09T22:22:16.151994",
+        "command": "!dietary vegan",
+        "response": "Set dietary preferences to: vegan"
+      },
+      {
+        "timestamp": "2025-03-12T11:03:58.515499",
+        "command": "!fitnessplan",
+        "response": "Hey Ayooluwa, I've designed a fitness plan just for you! Given your vegan and lower-carb preferences, along with your gaming lifestyle, I present: **\"Level Up: Gamer's Edition\"**. This plan will help improve your fitness, reduce strain from long gaming sessions, and keep your carbs in check.\n\n**Benefits:**\n- Improved posture and reduced back pain\n- Increased blood flow and energy levels\n- Reduced wrist strain and improved gaming endurance\n- Better focus and reduced eye fatigue\n\n**Weekly Schedule:**\n\n**Warm-up (Daily):**\n- 5 minutes of light jogging in place or jumping jacks\n\n**Monday - Wednesday - Friday: Strength Days**\n- Push-ups: 3 sets of 10-15 reps (works chest, shoulders, and triceps)\n- Squats: 3 sets of 15-20 reps (works legs and glutes)\n- Planks: 3 sets of 30-60 seconds (works core and lower back)\n- Reverse lunges: 3 sets of 10-12 reps per leg (works legs and glutes)\n- Chair dips: 3 sets of 10-15 reps (works triceps)\n\n**Tuesday - Thursday: Cardio and Flexibility Days**\n- Jumping jacks: 3 sets of 45-60 seconds\n- High knees: 3 sets of 20-30 seconds per leg\n- Burpees: 3 sets of 5-10 reps\n- Yoga poses: Downward-facing dog, cobra, and pigeon (holds of 20-30 seconds each)\n\n**Saturday: Active Rest Day**\n- Light walking, leisurely bike ride, or casual gaming stream watching (with occasional stretches)\n\n**Sunday: Rest Day**\n- Focus on hydration, nutrition, and relaxation\n\n**Gaming Session Tips:**\n- Set a timer for every 50-60 minutes to remind you to take a short break\n- During breaks, do some light stretches, like wrist extensions, neck rolls, and shoulder shrugs\n- Maintain good posture while gaming: keep your back supported, feet flat on the floor, and wrists in a neutral position\n- Consider investing in ergonomic equipment, like a gaming chair or a wrist-friendly mouse\n\n**Loading Screen/Between Matches Exercises:**\n- Wrist stretches: Extend your arms in front of you, palms facing down, and gently press the backs of your hands towards your body until you feel a stretch in your wrists.\n- Seated torso twists: Cross your arms over your chest, and gently twist your torso to the left and right, holding each side for a few seconds.\n- Eye exercises: Look away from the screen and focus on a distant object for a few seconds, then blink rapidly for a few seconds to help reduce eye fatigue.\n\n**Nutrition Tip:**\n- For lower-carb vegan options, focus on foods like avocados, nuts, seeds, tofu, tempeh, and plenty of low-carb veggies. Stay hydrated by keeping a water bottle nearby during gaming sessions.\n\nThat's it, Ayooluwa! With **\"Level Up: Gamer's Edition\"**, you'll be tackling fitness like a pro while still enjoying your gaming sessions."
+      },
+      {
+        "timestamp": "2025-03-12T11:35:14.280059",
+        "command": "!order Palo Alto",
+        "response": "Found 1 restaurants in Palo Alto matching eat less carbs and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T11:35:23.937332",
+        "command": "!order San Francisco",
+        "response": "Found 1 restaurants in San Francisco matching eat less carbs and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T11:35:29.475267",
+        "command": "!order New york",
+        "response": "Found 1 restaurants in New york matching eat less carbs and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T11:42:17.429697",
+        "command": "!order palo alto",
+        "response": "Found 1 restaurants in palo alto matching I wnat to eat carbs whikle eating and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T11:42:25.970071",
+        "command": "!order San Francisco",
+        "response": "Found 1 restaurants in San Francisco matching I wnat to eat carbs whikle eating and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T11:46:36.107069",
+        "command": "!order San Francisco",
+        "response": "Found 1 restaurants in San Francisco matching eat carbs more and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T11:49:05.487876",
+        "command": "!order san francisco",
+        "response": "Found 9 restaurants in san francisco matching eat less carbs and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T11:49:17.133695",
+        "command": "!order Palo Alto",
+        "response": "Found 8 restaurants in Palo Alto matching eat less carbs and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T11:52:49.446868",
+        "command": "!order Palo Alto",
+        "response": "Found 17 restaurants in Palo Alto matching eating less carbs and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T12:01:14.627716",
+        "command": "!order Palo Alto",
+        "response": "Found 7 restaurants in Palo Alto matching i want to eat more vegetables and dietary preferences: {'preferences vegetarian': True}"
+      },
+      {
+        "timestamp": "2025-03-12T12:01:57.881289",
+        "command": "!fitnessplan",
+        "response": "Hey Ayooluwa! I've put together a fitness plan for you that's perfect for a gamer like you who wants to eat more vegetables.\n\n**Plan Name:** \"Level Up: Veggie Edition\"\n\n**Introduction:**\nThis plan is designed to help you incorporate more vegetables into your diet while also addressing common issues gamers face, like wrist strain, back pain, and eye fatigue. The best part? You can do most of these exercises at home with minimal equipment, and they can be broken down into short sessions that fit between your gaming sessions.\n\n**Weekly Schedule:**\n\n**Monday - Wednesday - Friday: \"Veggie Vitality\"**\n- *Warm-up:* 5 minutes of light jogging in place or jumping jacks.\n- *Main Course:*\n  - Carrot Crunches: 3 sets of 15 reps (regular crunches while imagining munching on carrots!)\n  - Broccoli Bicep Curls: 3 sets of 12 reps (use water bottles or light dumbbells)\n  - Spinach Squats: 3 sets of 15 reps\n  - Bell Pepper Planks: 3 sets of 30-second holds\n- *Cool Down:* 5 minutes of gentle stretching.\n\n**Tuesday - Thursday: \"Gamer's Green Recovery\"**\n- *Warm-up:* 5 minutes of light yoga poses (focus on wrists, back, and neck).\n- *Main Course:*\n  - Cucumber Cat-Cow Stretch: 3 sets of 10 reps (for spine flexibility)\n  - Asparagus Arm Circles: 3 sets of 15 reps each direction (for wrist and arm mobility)\n  - Kale Knee Hugs: 3 sets of 10 reps each leg (for lower back and hip relief)\n- *Cool Down:* 5 minutes of deep breathing exercises.\n\n**Saturday: \"Veggie Adventure Day\"**\n- Try a new vegetable-based recipe or challenge yourself to a vegetable-themed workout (e.g., \"Tomato Trot\" - a brisk 20-minute walk).\n\n**Sunday: Rest Day**\n- Focus on hydration and relaxing activities to recover for the week ahead.\n\n**Tips for Incorporating Movement into Gaming Sessions:**\n- Set a timer for every 30 minutes to stand up, stretch, and move around.\n- Use a stability ball as your gaming chair to engage your core and improve posture.\n- Try some \"Eye-Carrot Exercises\" - look away from the screen every 20 minutes and focus on a distant object to reduce eye strain.\n\n**Exercises for Loading Screens or Between Matches:**\n- Zucchini Zappers: Quick wrist stretches to keep your hands limber.\n- Cherry Tomato Toe Raises: Calf raises to improve circulation and keep your legs active.\n- Sweet Potato Shoulder Rolls: Gentle shoulder rolls to release tension in your upper back.\n\nRemember, Ayooluwa, every small step counts! Just like leveling up in a game, consistency is key."
+      }
+    ],
+    "dietary_preferences_raw": "preferences vegetarian",
+    "dietary_restrictions": [
+      "p r e f e r e n c e s   v e g e t a r i a n"
+    ],
+    "spice_preference": "Extra Hot",
+    "fitness_plan": {
+      "plan": "Hey Ayooluwa! I've put together a fitness plan for you that's perfect for a gamer like you who wants to eat more vegetables.\n\n**Plan Name:** \"Level Up: Veggie Edition\"\n\n**Introduction:**\nThis plan is designed to help you incorporate more vegetables into your diet while also addressing common issues gamers face, like wrist strain, back pain, and eye fatigue. The best part? You can do most of these exercises at home with minimal equipment, and they can be broken down into short sessions that fit between your gaming sessions.\n\n**Weekly Schedule:**\n\n**Monday - Wednesday - Friday: \"Veggie Vitality\"**\n- *Warm-up:* 5 minutes of light jogging in place or jumping jacks.\n- *Main Course:*\n  - Carrot Crunches: 3 sets of 15 reps (regular crunches while imagining munching on carrots!)\n  - Broccoli Bicep Curls: 3 sets of 12 reps (use water bottles or light dumbbells)\n  - Spinach Squats: 3 sets of 15 reps\n  - Bell Pepper Planks: 3 sets of 30-second holds\n- *Cool Down:* 5 minutes of gentle stretching.\n\n**Tuesday - Thursday: \"Gamer's Green Recovery\"**\n- *Warm-up:* 5 minutes of light yoga poses (focus on wrists, back, and neck).\n- *Main Course:*\n  - Cucumber Cat-Cow Stretch: 3 sets of 10 reps (for spine flexibility)\n  - Asparagus Arm Circles: 3 sets of 15 reps each direction (for wrist and arm mobility)\n  - Kale Knee Hugs: 3 sets of 10 reps each leg (for lower back and hip relief)\n- *Cool Down:* 5 minutes of deep breathing exercises.\n\n**Saturday: \"Veggie Adventure Day\"**\n- Try a new vegetable-based recipe or challenge yourself to a vegetable-themed workout (e.g., \"Tomato Trot\" - a brisk 20-minute walk).\n\n**Sunday: Rest Day**\n- Focus on hydration and relaxing activities to recover for the week ahead.\n\n**Tips for Incorporating Movement into Gaming Sessions:**\n- Set a timer for every 30 minutes to stand up, stretch, and move around.\n- Use a stability ball as your gaming chair to engage your core and improve posture.\n- Try some \"Eye-Carrot Exercises\" - look away from the screen every 20 minutes and focus on a distant object to reduce eye strain.\n\n**Exercises for Loading Screens or Between Matches:**\n- Zucchini Zappers: Quick wrist stretches to keep your hands limber.\n- Cherry Tomato Toe Raises: Calf raises to improve circulation and keep your legs active.\n- Sweet Potato Shoulder Rolls: Gentle shoulder rolls to release tension in your upper back.\n\nRemember, Ayooluwa, every small step counts! Just like leveling up in a game, consistency is key.",
+      "created_at": "2025-03-12T12:01:58.690080",
+      "health_goal": "i want to eat more vegetables"
+    },
+    "last_restaurants": [
+      {
+        "id": "fallback1",
+        "name": "Healthy Eats (Fallback)",
+        "rating": 4.5,
+        "delivery_fee": 2.99,
+        "estimated_time": "20-30 min",
+        "cuisine": "Health Food",
+        "tags": [
+          "healthy",
+          "quick",
+          "reliable"
+        ]
+      }
+    ]
+  },
+  "1232197670932840449": {
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "Heyy",
+        "timestamp": "2025-03-09T21:09:27.017147"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello there, fellow gamer! It's great to have you here. I'm GG_Nourish, your health and nutrition assistant designed specifically for gamers like you. I'm here to help you maintain a healthy lifestyle while enjoying your gaming sessions.\n\nTo get started, here are a few things I can do:\n\n1. Provide healthy meal and snack ideas that are easy to prepare and enjoy while gaming.\n2. Suggest some simple exercises and stretches to help you stay active and prevent gaming-related injuries.\n3. Offer tips on how to maintain good posture while gaming.\n4. Provide advice on how to manage your sleep schedule for optimal health and gaming performance.\n5. Help you stay hydrated with reminders and tips.\n\nIf you'd like to know more about the commands you can use to interact with me, just type !help.\n\nNow, let's level up your health and wellness journey together! What would you like to focus on first?",
+        "timestamp": "2025-03-09T21:09:27.023426"
+      },
+      {
+        "role": "user",
+        "content": "I want to lose weight and I have a budget of 25 per meal",
+        "timestamp": "2025-03-09T21:10:06.753176"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! It's great to hear that you're taking steps towards a healthier lifestyle. With a budget of $25 per meal, you have plenty of options for nutritious and satisfying food that can help you with your weight loss goal.\n\nHere are some meal ideas that are gamer-friendly, budget-conscious, and healthy:\n\n1. **Grilled Chicken Salad** (~$10-15)\n   - Grilled chicken breast\n   - Mixed greens (spinach, kale, arugula)\n   - Cherry tomatoes\n   - Cucumber\n   - Avocado\n   - Balsamic vinaigrette\n\n2. **Turkey and Avocado Wrap** (~$8-12)\n   - Whole grain wrap\n   - Turkey breast\n   - Avocado\n   - Lettuce\n   - Tomato\n   - Hummus or mustard\n   - Side of baby carrots\n\n3. **Baked Salmon with Quinoa and Steamed Veggies** (~$15-20)\n   - Baked salmon fillet\n   - Quinoa\n   - Steamed mixed vegetables (broccoli, bell peppers, carrots)\n   - Lemon-dill sauce\n\n4. **Chicken Stir-Fry** (~$10-15)\n   - Chicken breast\n   - Mixed vegetables (bell peppers, snap peas, carrots, bok choy)\n   - Brown rice\n   - Soy sauce or coconut aminos\n\n5. **Omelette with Veggies and Whole Grain Toast** (~$8-12)\n   - Eggs\n   - Mixed vegetables (spinach, mushrooms, bell peppers, onions)\n   - Whole grain bread\n   - Avocado (optional)\n\n**Hydration Tip:** Don't forget to stay hydrated! Drink plenty of water throughout the day, especially during long gaming sessions.\n\n**Snack Ideas:**\n- Baby carrots and hummus (~$3)\n- Greek yogurt with mixed berries (~$3)\n- Apple slices with peanut butter (~$2)\n- Mixed nuts and seeds (~$2)\n\n**Gaming Break Tip:** Take short breaks every hour to stretch and move around. This will help improve circulation, prevent eye strain, and keep your metabolism active.\n\nTo see available commands, use !help.\n\nKeep in mind that prices may vary depending on your location and where you shop. Also, consider preparing meals at home to save money and have better control over portion sizes and ingredients.\n\nGood luck with your weight loss journey, and happy gaming! \ud83d\ude0a\ud83c\udfae\ud83e\udd57",
+        "timestamp": "2025-03-09T21:10:06.755202"
+      },
+      {
+        "role": "user",
+        "content": "Give me some suggestions from UberEats",
+        "timestamp": "2025-03-09T21:10:54.360915"
+      },
+      {
+        "role": "assistant",
+        "content": "Sure thing! While it's great to have services like UberEats for convenience, it's important to make healthier choices even when ordering in. Here are some suggestions across different categories:\n\n1. **Healthier Fast Food:**\n   - Grilled chicken sandwich or wrap instead of fried chicken or burger.\n   - Salad with grilled protein and light dressing.\n   - Pizza with thin crust, loads of veggies, and lean protein.\n\n2. **Asian Cuisine:**\n   - Sushi rolls with brown rice, avocado, and lean protein.\n   - Stir-fried tofu or chicken with vegetables and brown rice.\n   - Pho with chicken or tofu and loads of vegetables.\n\n3. **Mexican Cuisine:**\n   - Grilled chicken or vegetable burrito bowl with brown rice, black beans, and guacamole.\n   - Whole wheat tortilla wraps with grilled chicken or vegetables.\n   - Tacos with grilled fish or chicken, loaded with vegetables.\n\n4. **Indian Cuisine:**\n   - Tandoori chicken or grilled paneer with vegetables.\n   - Chana masala (chickpea curry) with brown rice.\n   - Vegetable biryani with raita (yogurt side dish).\n\n5. **Mediterranean Cuisine:**\n   - Grilled chicken or falafel salad with hummus and whole wheat pita.\n   - Quinoa salad with grilled vegetables and lean protein.\n   - Whole wheat wrap with grilled chicken or falafel and loads of vegetables.\n\n6. **Italian Cuisine:**\n   - Grilled chicken or shrimp salad with Italian dressing.\n   - Whole wheat pasta with marinara sauce and grilled vegetables.\n   - Minestrone soup with a side of whole grain bread.\n\n7. **Dessert:**\n   - Fresh fruit salad.\n   - Greek yogurt with honey and mixed nuts.\n   - Dark chocolate (at least 70% cocoa).\n\nDon't forget to stay hydrated while gaming! Water should always be your first choice, but if you need something more exciting, try sparkling water with a squeeze of lime or a cup of herbal tea.\n\nEnjoy your meal and happy gaming! If you need more suggestions or have any other questions, feel free to ask!",
+        "timestamp": "2025-03-09T21:10:54.364682"
+      },
+      {
+        "role": "user",
+        "content": "I want to workout",
+        "timestamp": "2025-03-09T21:14:43.141064"
+      },
+      {
+        "role": "assistant",
+        "content": "That's great to hear! Working out is a fantastic way to stay healthy and energized, especially for gamers who spend a lot of time sitting. Here are a few tips to get you started:\n\n1. **Find What You Enjoy**: There are plenty of workouts to choose from, such as running, cycling, swimming, or even dancing. Find something you enjoy so it doesn't feel like a chore.\n\n2. **Start Slow**: If you're new to working out, start with just a few minutes each day and gradually increase the duration and intensity.\n\n3. **Stretch**: Stretching before and after your workout can help prevent injuries and improve flexibility.\n\n4. **Stay Hydrated**: Drink plenty of water before, during, and after your workout.\n\n5. **Consistency is Key**: Aim for at least 30 minutes of physical activity most days of the week.\n\n6. **Gamer-Friendly Workouts**: Consider workouts that can be done at home or in short bursts during gaming breaks. Examples include bodyweight exercises like push-ups, squats, and lunges, or following along with a fitness video game.\n\nHere's a simple workout you can try during your next gaming break:\n\n- 10 x Push-ups\n- 10 x Squats\n- 10 x Lunges (each leg)\n- 10 x Sit-ups\n- Repeat the circuit 3 times\n\nIf you'd like more specific advice or have any particular health goals, feel free to share! And if you're wondering about commands, just type !help to see what's available.\n\nNow, let's get moving! \ud83d\udcaa\ud83c\udfae",
+        "timestamp": "2025-03-09T21:14:43.144489"
+      },
+      {
+        "role": "user",
+        "content": "San Francisco",
+        "timestamp": "2025-03-09T21:23:04.294464"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello there, gamer! It's great to meet you! I see you're based in San Francisco, a city with a vibrant gaming scene and amazing food \u2013 including McDonald's! You mentioned you'd like to lose some fat while still enjoying McDonald's from time to time. I'm here to help you find that balance!\n\nFirst, let's talk about some small adjustments you can make to your McDonald's orders. For example, you can go for grilled chicken instead of crispy, or choose water instead of soda. Remember, it's all about portion control and making healthier choices.\n\nNow, let's discuss your gaming routine. It's essential to take breaks, stay hydrated, and do some light exercises or stretches in between gaming sessions. This will not only benefit your health but also improve your gameplay by keeping your mind sharp and your body alert.\n\nSince you're looking to lose fat, it's important to create a caloric deficit by burning more calories than you consume. To achieve this, consider incorporating some fun, physical activities into your daily routine. This could be anything from walking around your neighborhood, joining a local sports team, or even trying out a fitness-focused video game like \"Ring Fit Adventure\" or \"Just Dance.\"\n\nLastly, make sure you're getting enough sleep! Adequate rest is crucial for overall health and weight management. Try to maintain a consistent sleep schedule, even on gaming nights.\n\nIf you'd like to know more about the commands you can use to interact with me, just type !help. I'm excited to support you on your journey to better health and gaming performance! Let's level up together!  Game on! \ud83c\udfae\ud83c\udf54",
+        "timestamp": "2025-03-09T21:23:04.300828"
+      },
+      {
+        "role": "user",
+        "content": "Heyyy",
+        "timestamp": "2025-03-09T21:25:59.581075"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there, gamer! It's great to meet you. I see you're looking to lose some fat while still enjoying some McDonald's. I'm here to help you find a healthy balance so you can keep gaming and feeling great! Let's start with some basic tips:\n\n1. **Moderation is key**: You can still enjoy McDonald's, but try to limit it to once a week or less.\n2. **Make healthier choices**: Even at McDonald's, you can opt for grilled chicken, salads, and smaller portions.\n3. **Stay hydrated**: Drink plenty of water throughout the day, especially during gaming sessions.\n4. **Move more**: Add some physical activity to your daily routine, even if it's just a short walk or some desk exercises.\n\nIf you'd like more specific advice or have any other questions, feel free to ask! If you want to know about the commands I use type !help.\n\nLet's level up your health, gamer! \ud83c\udfae\ud83c\udf4e",
+        "timestamp": "2025-03-09T21:25:59.585972"
+      },
+      {
+        "role": "user",
+        "content": "I want McDonald's what do you want",
+        "timestamp": "2025-03-09T21:26:17.505823"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there, gamer! I understand that you're craving McDonald's \u2013 who doesn't love a good Big Mac or some crispy fries? But since you've mentioned you want to lose some fat, let's make a game plan to enjoy your meal while keeping your health goals in mind.\n\nFirst, let's check out the McDonald's menu and find some healthier options. Grilled chicken wraps, salads with grilled chicken, and even their grilled chicken sandwiches can be a better choice for a gamer on a mission to lean out. If you're really craving a burger, go for it \u2013 but try opting for a smaller one, or consider going bunless to cut down on carbs.\n\nRemember, portion control is key when it comes to fat loss. If you're eating more calories than your body needs, it'll be tough to see progress. So, consider grabbing a Happy Meal \u2013 it's smaller, comes with a fun toy, and can help with portion control.\n\nStaying hydrated is also super important for gamers. Instead of soda, consider choosing water as your drink \u2013 it's calorie-free and keeps you hydrated for those intense gaming sessions!\n\nLastly, don't forget that consistency is key when it comes to fat loss. Make sure to balance your meals throughout the day and keep an eye on your overall caloric intake.\n\nIf you have more questions about nutrition, gaming, or want to know what commands you can use, just type !help to see your available options.\n\nNow, let's fuel up and get back to gaming \u2013 healthily! \ud83c\udfae\ud83c\udf54",
+        "timestamp": "2025-03-09T21:26:17.514125"
+      },
+      {
+        "role": "user",
+        "content": "Can I get KFC instead then?",
+        "timestamp": "2025-03-09T21:28:15.950564"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there, gamer! I understand that you're craving some fast food, but let's not forget your goal to lose fat. Instead of KFC, let's find a healthier alternative that's still delicious and gamer-friendly!\n\nHow about we try grilling some chicken at home? You can make it crispy and full of flavor without the excess calories and unhealthy fats. Plus, you can season it with your favorite herbs and spices and enjoy it with a side of veggies or a fresh salad.\n\nIf you're short on time, consider opting for grilled chicken options at restaurants or grabbing a pre-made grilled chicken salad from a grocery store. Remember, every small step towards healthier eating counts!\n\nIf you need some inspiration for healthier meal ideas or have any other questions, feel free to ask. I'm here to support your gaming and health journey! Don't forget, you can use the !help command to see available commands.\n\nLet's level up your health, gamer! \ud83c\udfae\ud83c\udf74",
+        "timestamp": "2025-03-09T21:28:15.954683"
+      },
+      {
+        "role": "user",
+        "content": "\u6211\u60f3\u70b9\u5403\u7684 \u53ef\u4ee5\u7ed9\u6211\u9ea6\u5f53\u52b3\u5417",
+        "timestamp": "2025-03-09T21:31:14.580834"
+      },
+      {
+        "role": "assistant",
+        "content": "\u5f53\u7136\u53ef\u4ee5\uff01\u9ea6\u5f53\u52b3\u5076\u5c14\u5403\u4e00\u5403\u6ca1\u95ee\u9898\uff0c\u4f46\u4e3a\u4e86\u5e2e\u52a9\u4f60\u51cf\u8102\uff0c\u6211\u4eec\u53ef\u4ee5\u505a\u4e00\u4e9b\u5065\u5eb7\u7684\u9009\u62e9\u3002\u4ee5\u4e0b\u662f\u4e00\u4e9b\u5efa\u8bae\uff1a\n\n1. **\u9009\u62e9\u66f4\u5065\u5eb7\u7684\u9009\u9879**\uff1a\u9ea6\u5f53\u52b3\u4e5f\u6709\u4e00\u4e9b\u5361\u8def\u91cc\u8f83\u4f4e\u7684\u9009\u62e9\uff0c\u6bd4\u5982\u9ea6\u9999\u9e21\u3001\u9ea6\u9999\u9c7c\u6216\u9ea6\u4e50\u9e21\u5757\u3002\u4f60\u53ef\u4ee5\u7528\u8fd9\u4e9b\u66ff\u4ee3\u9ad8\u70ed\u91cf\u7684\u6c49\u5821\u3002\n\n2. **\u63a7\u5236\u4efd\u91cf**\uff1a\u5373\u4f7f\u662f\u5065\u5eb7\u7684\u9009\u62e9\uff0c\u4efd\u91cf\u4e5f\u5f88\u91cd\u8981\u3002\u5c3d\u91cf\u9009\u62e9\u5c0f\u4efd\u6216\u4e2d\u4efd\uff0c\u800c\u4e0d\u662f\u5927\u4efd\u3002\n\n3. **\u51cf\u5c11\u78b3\u9178\u996e\u6599**\uff1a\u78b3\u9178\u996e\u6599\u542b\u6709\u5927\u91cf\u7684\u7cd6\u5206\u548c\u7a7a\u70ed\u91cf\u3002\u4f60\u53ef\u4ee5\u9009\u62e9\u6c34\u3001\u65e0\u7cd6\u8336\u6216\u65e0\u7cd6\u82cf\u6253\u6c34\u3002\n\n4. **\u589e\u52a0\u852c\u83dc**\uff1a\u5982\u679c\u53ef\u80fd\uff0c\u591a\u70b9\u4e00\u4e9b\u6c99\u62c9\uff0c\u5e76\u9009\u62e9\u4f4e\u70ed\u91cf\u7684\u9171\u6599\u3002\n\n5. **\u5e73\u8861\u996e\u98df**\uff1a\u5982\u679c\u4f60\u77e5\u9053\u81ea\u5df1\u4f1a\u5403\u9ea6\u5f53\u52b3\uff0c\u53ef\u4ee5\u5728\u5176\u4ed6\u9910\u4e2d\u9009\u62e9\u66f4\u5065\u5eb7\u7684\u98df\u7269\u6765\u5e73\u8861\u996e\u98df\u3002\n\n6. **\u8fd0\u52a8**\uff1a\u51cf\u8102\u4e0d\u4ec5\u4ec5\u662f\u9760\u996e\u98df\uff0c\u9002\u5f53\u7684\u8fd0\u52a8\u4e5f\u662f\u5fc5\u4e0d\u53ef\u5c11\u7684\u3002\u5373\u4f7f\u662f\u7b80\u5355\u7684\u6563\u6b65\u6216\u6e38\u620f\u95f4\u9699\u7684\u4f38\u5c55\u8fd0\u52a8\uff0c\u4e5f\u80fd\u5e2e\u52a9\u6d88\u8017\u70ed\u91cf\u3002\n\n\u8bb0\u4f4f\uff0c\u51cf\u8102\u662f\u4e00\u4e2a\u957f\u671f\u7684\u8fc7\u7a0b\uff0c\u5076\u5c14\u4eab\u53d7\u4e00\u4e0b\u81ea\u5df1\u559c\u6b22\u7684\u98df\u7269\u4e5f\u662f\u53ef\u4ee5\u7684\u3002\u5173\u952e\u662f\u627e\u5230\u5e73\u8861\u70b9\uff0c\u5e76\u4fdd\u6301\u6574\u4f53\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u3002\n\n\u5982\u679c\u4f60\u6709\u5176\u4ed6\u95ee\u9898\u6216\u9700\u8981\u66f4\u591a\u5efa\u8bae\uff0c\u968f\u65f6\u544a\u8bc9\u6211\u54e6\uff01\u4e5f\u53ef\u4ee5\u4f7f\u7528 !help \u547d\u4ee4\u67e5\u770b\u66f4\u591a\u529f\u80fd\u3002\u52a0\u6cb9\uff0c\u4f60\u4e00\u5b9a\u53ef\u4ee5\u8fbe\u6210\u4f60\u7684\u5065\u5eb7\u76ee\u6807\u7684\uff01",
+        "timestamp": "2025-03-09T21:31:14.587120"
+      }
+    ],
+    "health_goal": {
+      "primary": "lose weight and build muscle meanwhile playing games",
+      "set_at": "2025-03-09T22:22:37.244906"
+    },
+    "gaming_sessions": [],
+    "created_at": "2025-03-09T21:09:22.530996",
+    "activity_data": {
+      "last_activity": "2025-03-09T22:22:52.252606",
+      "daily_activity": {
+        "2025-03-09": 32
+      }
+    },
+    "started": true,
+    "start_date": "2025-03-09T21:14:23.703104",
+    "workout_history": [
+      {
+        "timestamp": "2025-03-09T21:14:43.685458",
+        "type": "prompt"
+      }
+    ],
+    "workout_count": 1
+  },
+  "1329185997702955028": {
+    "chat_history": [],
+    "health_goal": {
+      "primary": "I want to have better posture",
+      "set_at": "2025-03-09T22:07:57.756411"
+    },
+    "gaming_sessions": [],
+    "created_at": "2025-03-09T22:07:31.400216",
+    "activity_data": {
+      "last_activity": "2025-03-09T23:02:41.658681",
+      "daily_activity": {
+        "2025-03-09": 12
+      }
+    },
+    "started": true,
+    "start_date": "2025-03-09T22:07:36.544209",
+    "last_workout_message_id": 1348522909848567898,
+    "last_workout_time": "2025-03-09T22:08:37.235108",
+    "workout_count": 1
+  }
+}

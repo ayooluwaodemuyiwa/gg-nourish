@@ -1,0 +1,35 @@
+To run the GG Delivery bot, you need to create a .env file with the following content:
+
+DISCORD_TOKEN=your_discord_bot_token_here
+MISTRAL_API_KEY=your_mistral_api_key_here
+UBER_EATS_API_KEY=your_uber_eats_api_key_here
+
+Steps to get these tokens:
+
+1. Discord Token:
+   - Visit https://discord.com/developers/applications
+   - Create a new application or select an existing one
+   - Navigate to the "Bot" section
+   - Click "Reset Token" to get a new token (or copy your existing one)
+   - Enable the following intents:
+     * Message Content Intent
+     * Server Members Intent
+   - Copy the token and paste it in your .env file
+
+2. Mistral API Key:
+   - Sign up or log in at https://mistral.ai/
+   - Navigate to your account settings or API dashboard
+   - Generate a new API key
+   - Copy the key and paste it in your .env file
+
+3. Uber Eats API Key (Optional):
+   - If you have access to the Uber Eats API, you can add your API key here
+   - Without this key, the bot will use mock data for food recommendations
+   - The mock data includes sample restaurants and menus for testing purposes
+   - For production use, obtain an API key from the Uber Developer Portal
+
+Once you have the required tokens:
+1. Create a new file named ".env" in the gg-delivery directory
+2. Paste the content shown above with your actual tokens
+3. Save the file
+4. Run the bot with: python run_bot.py
